@@ -1,5 +1,5 @@
 # redShop NDS
-
+(The CIA has been updated, so there shouldn’t be as many failed downloads for non EU users)
 **Nintendo DS/GBA game downloader over Wi-Fi. No PC needed.**
 
 Browse and download 99+ NDS/GBA titles directly to your SD card, straight from the 3DS HOME Menu.
